@@ -7,7 +7,7 @@ I'm a **Senior in Computer Engineering** at **Georgia Tech** with a passion for 
 - **Robotics and Autonomous Systems**
 - **Non-Linear Control Systems**
 - **Reinforcement Learning**
-- **Path ann Motion Planning**
+- **Path and Motion Planning**
 
 ### 🌱 Currently Working On
 - Researching methods to optimize reinforcement learning based on user preferences for more effective learning.
