@@ -5,6 +5,7 @@ I'm a **Senior in Computer Engineering** at **Georgia Tech** with a passion for 
 
 ### 🎯 Research Interests
 - **Robotics and Autonomous Systems**
+- **Human Robot Interactions**
 - **Non-Linear Control Systems**
 - **Reinforcement Learning**
 - **Path and Motion Planning**
