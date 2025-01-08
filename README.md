@@ -10,7 +10,7 @@ I'm a **Senior in Computer Engineering** at **Georgia Tech** with a passion for 
 - **Path and Motion Planning**
 
 ### 🌱 Currently Working On
-- Researching methods to optimize reinforcement learning based on user preferences for more effective learning.
+- Researching methods to optimize learning based control on user preferences for more effective learning.
 - Path planning and optimization algorithms for safe and ideal trajectory.
 
 ### 📫 How to reach me
