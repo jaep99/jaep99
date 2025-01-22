@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Jae</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-I'm a **Senior in Computer Engineering** at **Georgia Tech** with a passion for robotics, non-linear control systems, reinforcement learning, and path planning. My journey through both electrical and computer engineering has allowed me to work on a variety of robotics projects. I'm currently exploring advanced control techniques and real-time path-finding optimization in dynamic environments.
+I'm a **ECE Master's student** at **Georgia Tech** with a passion for robotics, non-linear control systems, reinforcement learning, and path planning. My journey through both electrical and computer engineering has allowed me to work on a variety of robotics projects. I'm currently exploring advanced control techniques and real-time path-finding optimization in dynamic environments.
 
 ### 🎯 Research Interests
 - **Robotics and Autonomous Systems**
